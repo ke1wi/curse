@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "id": "Vmdkonf8frddn-f134jnf-34jnf-14f",
+            "firstname": "Vika",
+            "lastname": "Kap",
+            "rates": [
+                {
+                    "name": "Phisics",
+                    "value": 12
+                },
+                {
+                    "name": "Math",
+                    "value": 20
+                },
+                {
+                    "name": "Prog",
+                    "value": 19
+                },
+                {
+                    "name": "OZS",
+                    "value": 21
+                }
+            ]
+        }
+    ]
+}
